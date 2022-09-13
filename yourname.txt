@@ -1,2 +1,2 @@
-"hello frm yourname" 
-goodbye from your name  notepad yourname.txt
+"hello from Chris" 
+goodbye from Chris  notepad Chris.txt
